@@ -5,13 +5,14 @@ NFT-MESSENGER is a program to write about NFTs and to exchange information about
 
 ## Table of contents
 
-- [requirements](#requirements)
+- [Requirements](#Requirements)
 - [Installation](#Installation)
-- [Application examples](#Application examples)
-- [metadata](#metadata)
+- [Application](#Application )
+- [metadata](#Metadata)
 
 
-## requirements
+
+## Requirements
 - Knowledge of English, since the entire system runs in English
 - An internet enabled Linux/Mac/Windows based computer
 - Python & GitHub knowledge
