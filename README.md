@@ -1,25 +1,25 @@
 # NFT-MESSENGER
-NFT-MESSENGER ist ein Programm um  über NFTs zu schreiben und um sich über diese auszutauschen.
+NFT-MESSENGER is a program to write about NFTs and to exchange information about them.
 
 
 
 
 
-## Inhaltsverzeichnis
+## Table of contents
 
-- [Vorraussetzungen](#Vorraussetzungen)
+- [requirements](#requirements)
 - [Installation](#Installation)
-- [Anwendungsbeispiele](#Anwendungsbeispiele)
-- [Metadaten](#Metadaten)
+- [Examples of use](#Examples of use)
+- [metadata](#metadata)
 
 
-## Vorraussetzungen
-- Englisch Kenntnisse, da das gesamte System auf Englisch läuft
-- Ein internetfähiger Linux/Mac/Windows basierter Computer
-- Python & GitHub Kenntnisse 
+## Prerequisites
+- Knowledge of English, since the entire system runs in English
+- An internet enabled Linux/Mac/Windows based computer
+- Python & GitHub knowledge
 
 
-[zurück an den Anfang](#Write-o-mat)
+[back to top](#NFT-MESSENGER)
 
 
 ## Installation
@@ -31,24 +31,25 @@ https://github.com/BergmannJustin/NFT-MESSENGER.git
 cd NFT-MESENGER
 ```
 
-[zurück an den Anfang](#Write-o-mat)
+
+[back to top](#NFT-MESSENGER)
 
   
 
-## Anwendungsbeispiele
+## Application examples
 
-Mein Projekt NFT-MESSENGER kann fürs
+My project NFT-MESSENGER can be used for
 
-- chatten
-- Telefonieren
-- Live Aufnahmen
-- Storys für die NFTs
-- Inspiration
+- to chat
+- Make a phone call
+- Live recordings
+- Stories for the NFTs
+- Inspiring
 
-genutzt werden.
+be used.
 
 
-[zurück an den Anfang](#Write-o-mat)
+[back to top](#NFT-MESSENGER)
 
 
 
@@ -58,4 +59,4 @@ genutzt werden.
 
 
 
-[zurück an den Anfang](#Write-o-mat)
+[back to top](#NFT-MESSENGER)
