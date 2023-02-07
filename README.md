@@ -37,11 +37,13 @@ cd NFT-MESENGER
 
 ## Anwendungsbeispiele
 
-Mein Projekt NFT-MESSENGER kann als
+Mein Projekt NFT-MESSENGER kann zum
 
+- chatten
+- Telefonieren
+- Live Aufnahmen
 - Inspiration
-- Messenger
-
+- 
 genutzt werden.
 
 
