@@ -43,7 +43,7 @@ Mein Projekt NFT-MESSENGER kann zum
 - Telefonieren
 - Live Aufnahmen
 - Inspiration
-- 
+
 genutzt werden.
 
 
