@@ -52,7 +52,7 @@ be used.
 
 
 
-## Metadaten
+## Metadata
 
  Justin Bergmann - Github: @BergmannJustin
 
