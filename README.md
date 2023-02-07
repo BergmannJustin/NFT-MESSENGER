@@ -8,7 +8,7 @@ NFT-MESSENGER is a program to write about NFTs and to exchange information about
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 - [Application](#Application )
-- [metadata](#Metadata)
+- [Metadata](#Metadata)
 
 
 
