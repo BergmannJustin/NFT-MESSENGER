@@ -35,7 +35,7 @@ cd NFT-MESENGER
 
   
 
-## Application examples
+## Application 
 
 My project NFT-MESSENGER can be used for
 
