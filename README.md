@@ -1,4 +1,7 @@
 # NFT-MESSENGER
+NFT-MESSENGER ist ein Programm um  über NFTs zu schreiben und um sich über diese auszutauschen.
+
+
 
 
 
