@@ -42,6 +42,7 @@ Mein Projekt NFT-MESSENGER kann zum
 - chatten
 - Telefonieren
 - Live Aufnahmen
+- Storys für die NFTs
 - Inspiration
 
 genutzt werden.
