@@ -14,13 +14,15 @@ NFT-MESSENGER ist ein Programm um  über NFTs zu schreiben und um sich über die
 
 
 ## Vorraussetzungen
+- Englisch Kenntnisse, da das gesamte System auf Englisch läuft
+- Ein internetfähiger Linux/Mac/Windows basierter Computer
+- Python & GitHub Kenntnisse 
 
 
 [zurück an den Anfang](#Write-o-mat)
 
 
 ## Installation
-
 
 Mac:
 
