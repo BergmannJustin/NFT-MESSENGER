@@ -16,7 +16,7 @@
 [zurück an den Anfang](#Write-o-mat)
 
 
-## Installation und Anwendung
+## Installation
 
 
 Mac:
