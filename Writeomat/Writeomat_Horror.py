@@ -119,11 +119,6 @@ Horror_Geschichte_10 = Geschichte_2("Wie soll das Ende ausgehen?",
 String_Horror_10 = "Auf einmal wacht er wieder auf und merkt, dass alles nur ein Traum war."                  
 
 
-
-
-
-
-
 def Titelblatt(Horror_Geschichte_1):
     if "Vampir" in Horror_Geschichte_1:
         return(
